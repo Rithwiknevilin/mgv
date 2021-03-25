@@ -1,0 +1,11 @@
+console.log("hello");
+console.log("hello world");
+var firstname="Rithwik ";
+var lastname="Nevilin Viju";
+console.log(firstname);
+firstname.concat(lastname);
+var fullname=firstname.concat(lastname);
+console.log(fullname);
+var sis_name="My name is Rithwik Nevilin Viju";
+var newname= sis_name.replace("Rithwik","Nevina");
+console.log(newname);
